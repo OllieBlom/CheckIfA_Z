@@ -16,8 +16,6 @@ namespace CheckIfA_Z
             {
                 Console.WriteLine("That isn't a letter!!!");
             }
-            
-            //Console.WriteLine(character);
 
         }
     }
