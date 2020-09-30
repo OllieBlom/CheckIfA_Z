@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfA_Z", "CheckIfA_Z\CheckIfA_Z.csproj", "{D8A93E6C-63FB-4FFC-9D26-5C4DE64B19E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8A93E6C-63FB-4FFC-9D26-5C4DE64B19E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8A93E6C-63FB-4FFC-9D26-5C4DE64B19E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8A93E6C-63FB-4FFC-9D26-5C4DE64B19E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8A93E6C-63FB-4FFC-9D26-5C4DE64B19E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
